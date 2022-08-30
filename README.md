@@ -10,8 +10,8 @@ QR-code-component
  
  Screenshots: 
  ----
- ![photo1]()
- ![photo2]()
+ ![photo1](https://github.com/3omeed/QR-code-component/blob/main/Screenshots/Screenshot%20(69).png)
+ ![photo2](https://github.com/3omeed/QR-code-component/blob/main/Screenshots/WhatsApp%20Image%202022-08-30%20at%207.24.55%20PM.jpeg)
  
  
      
